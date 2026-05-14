@@ -24,9 +24,5 @@ A modern and responsive Doctor Appointment Booking application developed using R
 - package-lock.json
 - README.md
 
-## ▶️ How to Run
 
-Clone the repository:
 
-```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
