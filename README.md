@@ -20,8 +20,8 @@ A modern and responsive Doctor Appointment Booking application developed using R
 ## 📂 Files Included
 - src/
 - public/
-- package.json
-- package-lock.json
+-frontend/
+-backend/
 - README.md
 
 
